@@ -1,5 +1,5 @@
 // Typography
-$base-font-family: $helvetica;
+$base-font-family: 'work sans', sans-serif;
 $heading-font-family: $base-font-family;
 
 // Font Sizes
@@ -16,7 +16,10 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
 // Colors
-$blue: #1565c0;
+$blue: #2F3744;
+$green: #5B8B69;
+$yellow: #E4D163;
+$orange: #E99930;
 $dark-gray: #333;
 $medium-gray: #999;
 $light-gray: #ddd;
